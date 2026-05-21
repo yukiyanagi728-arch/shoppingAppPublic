@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Preem Market</title>
+  
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='12' fill='%23CBE8BA'/><path d='M20 28h24v24H20z' fill='%23EAE5D8'/><path d='M26 28c0-4 3-7 6-7s6 3 6 7' stroke='%23C0B7A4' stroke-width='2' fill='none'/><path d='M23 20c-1-2-3-4-6-4s-5 3-4 7l4 9' stroke='%234A7836' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M38 29c1-1 3-2 5-2s4 2 4 4c0 3-2 5-4 7' stroke='%23D19A2A' stroke-width='3' fill='none'/><text x='32' y='40' font-family='sans-serif' font-weight='bold' font-size='5' text-anchor='middle' fill='%23000'>PREEM</text><text x='32' y='46' font-family='sans-serif' font-weight='bold' font-size='5' text-anchor='middle' fill='%23000'>MARKET</text></svg>">
+  
+  <style>
+    /* 画面の余白をなくし、iframeを全画面表示にする設定 */
+    body, html {
+      margin: 0;
+      padding: 0;
+      height: 100vh;
+      overflow: hidden;
+      background-color: #f4f7f6;
+    }
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <iframe src="https://script.google.com/macros/s/AKfycbx_u7-Zh18GxHq6Lp74FsI9JLedBZXSbi70Km7iwmz3ohxSC0mJLikkl6FI4LDcUzcy/exec"></iframe>
+</body>
+</html>
